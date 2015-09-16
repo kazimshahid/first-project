@@ -7,3 +7,6 @@ I will put them on the server to colloborate with my friends
 #Remote Changes
 These lines are changed on the server and will be pulled on the local to see changes. 
 We are doing to colloborate and learn the git.
+
+#Shehbaz changes
+I am changes to send the pull request. Then Kazim will accept this pull request to merge in the main project. 
